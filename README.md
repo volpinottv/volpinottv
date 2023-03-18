@@ -1,5 +1,4 @@
 ![header](https://user-images.githubusercontent.com/108951418/226121783-8cfefcf2-31c5-4bb8-b039-e02fbae72ca5.png)
-![coding-gif](https://user-images.githubusercontent.com/108951418/226121793-a6a14860-f599-4253-97d7-1dfa44eb7202.gif width=100)
 
 Hi there 👋 I'm volpinottv
 
