@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning **CyberSecurity**
 - 📫 How to reach me **volpino#8917 (discord)**
 - ⚡ **Etical Hacker**
-＜img src="[Paste Your Link Here](https://user-images.githubusercontent.com/108951418/226122324-4e77cf2d-0863-42f3-a968-0127307a85ff.png)" width="200" height="200"＞
+＜img src="(https://user-images.githubusercontent.com/108951418/226122324-4e77cf2d-0863-42f3-a968-0127307a85ff.png)" width="200" height="200"＞
